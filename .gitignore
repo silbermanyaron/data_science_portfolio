@@ -1,0 +1,11 @@
+# Datasets are supplied by the course and are not redistributed here
+projects/*/data/*
+!projects/*/data/README.md
+
+# Notebook and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
