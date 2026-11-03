@@ -1,0 +1,12 @@
+numpy==1.25.2
+pandas==2.0.3
+scipy
+matplotlib==3.7.1
+seaborn==0.13.1
+scikit-learn==1.2.2
+statsmodels
+xgboost==2.0.3
+imbalanced-learn==0.10.1
+yellowbrick==1.5
+threadpoolctl==3.3.0
+jupyter
